@@ -42,6 +42,6 @@ This project includes a simple Python-based web server that can serve HTML files
 4. Pr0gram:[MDSE SE-Option]
    
 ## Program Facilitator 
-1.Name:[Dr. Eyabu]
+1.Name:[Dr. Odongo Steven Eyabu]
 2.College:[Makerere University]
 
