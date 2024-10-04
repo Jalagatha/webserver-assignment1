@@ -1,7 +1,5 @@
 # AssignMent1: Web Server
-
 This project includes a simple Python-based web server that can serve HTML files from a designated directory and allows for remote shutdown through specific URLs.
-
 ## Project Structure
 
 - `my_web_server.py`: The main Python script for the server.
@@ -9,7 +7,8 @@ This project includes a simple Python-based web server that can serve HTML files
   - `index.html`: Main page.
   - `shutdown.html`: Accessing this page will shut down the server.
   - `close_server.html`: Another page that can also shut down the server.
-
+#### Image
+![Home Page](./images/serverA.JPG)
 ## Setup Instructions
 
 1. **Prerequisites**: Ensure you have Python installed on your system.
