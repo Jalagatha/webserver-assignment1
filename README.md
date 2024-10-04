@@ -36,8 +36,12 @@ This project includes a simple Python-based web server that can serve HTML files
 - Extend functionality to handle POST requests and other HTTP methods.
 
 ## CREATED BY
-Name: [Mugisha Ivan Jalagatha] 
-Email: [jalagatha@gmail.com]
-RegNo: [2024/HD05/22104U]
-Pr0gram:[MDSE SE-Option]
+1. Name: [Mugisha Ivan Jalagatha] 
+2. Email: [jalagatha@gmail.com]
+3. RegNo: [2024/HD05/22104U]
+4. Pr0gram:[MDSE SE-Option]
+   
+## Program Facilitator 
+1.Name:[Dr. Eyabu]
+2.College:[Makerere University]
 
